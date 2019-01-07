@@ -1,9 +1,8 @@
 package server
 
 import (
-	"snapbot/server/routes/telegram"
-
 	"github.com/gin-gonic/gin"
+	"github.com/iEricKoh/snapbot/server/routes/telegram"
 )
 
 func InitRoutes() *gin.Engine {

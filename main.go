@@ -1,7 +1,7 @@
 package main
 
 import (
-	"snapbot/server"
+	"github.com/iEricKoh/snapbot/server"
 )
 
 func main() {

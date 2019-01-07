@@ -3,9 +3,9 @@ package telegram
 import (
 	"net/http"
 
-	. "snapbot/config"
+	. "github.com/iEricKoh/snapbot/config"
 
-	"github.com/go-telegram-bot-api/telegram-bot-api"
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"

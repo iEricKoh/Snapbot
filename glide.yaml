@@ -1,6 +1,0 @@
-package: snapbot
-import:
-- package: github.com/gin-gonic/gin
-- package: github.com/kelseyhightower/envconfig
-- package: github.com/go-telegram-bot-api/telegram-bot-api
-  version: v4.6.2
